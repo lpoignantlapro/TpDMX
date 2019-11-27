@@ -1,14 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <BorlandProject>
-  <Transactions>
-    <Transaction>2019/11/26 17:27:17.414,=C:\Users\Lilian POIGNANT\Documents\Embarcadero\Studio\Projets\Project1PCH1.h</Transaction>
-    <Transaction>2019/11/26 17:27:17.742,=C:\Users\Lilian POIGNANT\Documents\Embarcadero\Studio\Projets\Unit1.cpp</Transaction>
-    <Transaction>2019/11/26 17:27:42.007,C:\Users\Lilian POIGNANT\Documents\TP SYSTEME SN2\TpDMX\Unit1.cpp=C:\Users\Lilian POIGNANT\Documents\Embarcadero\Studio\Projets\Unit1.cpp</Transaction>
-    <Transaction>2019/11/26 17:27:42.007,C:\Users\Lilian POIGNANT\Documents\TP SYSTEME SN2\TpDMX\Unit1.h=C:\Users\Lilian POIGNANT\Documents\Embarcadero\Studio\Projets\Unit1.h</Transaction>
-    <Transaction>2019/11/26 17:27:42.007,C:\Users\Lilian POIGNANT\Documents\TP SYSTEME SN2\TpDMX\Unit1.dfm=C:\Users\Lilian POIGNANT\Documents\Embarcadero\Studio\Projets\Unit1.dfm</Transaction>
-    <Transaction>2019/11/26 17:27:43.492,C:\Users\Lilian POIGNANT\Documents\TP SYSTEME SN2\TpDMX\Project1PCH1.h=C:\Users\Lilian POIGNANT\Documents\Embarcadero\Studio\Projets\Project1PCH1.h</Transaction>
-    <Transaction>2019/11/26 17:27:44.351,C:\Users\Lilian POIGNANT\Documents\TP SYSTEME SN2\TpDMX\Project1.cbproj=C:\Users\Lilian POIGNANT\Documents\Embarcadero\Studio\Projets\Project1.cbproj</Transaction>
-    <Transaction>2019/11/26 17:39:43.114,=C:\Users\Lilian POIGNANT\Documents\TP SYSTEME SN2\TpDMX\LIB\DasHard.h.h</Transaction>
-    <Transaction>2019/11/26 17:39:43.708,=C:\Users\Lilian POIGNANT\Documents\TP SYSTEME SN2\TpDMX\LIB\DasHard2006.dll</Transaction>
+	<Transactions>
+    <Transaction>2019/11/26 17:27:17.000.414,=C:\Users\Lilian POIGNANT\Documents\Embarcadero\Studio\Projets\Project1PCH1.h</Transaction>
+    <Transaction>2019/11/26 17:27:17.000.742,=C:\Users\Lilian POIGNANT\Documents\Embarcadero\Studio\Projets\Unit1.cpp</Transaction>
+    <Transaction>2019/11/26 17:27:42.000.007,C:\Users\Lilian POIGNANT\Documents\Embarcadero\Studio\Projets\Unit1.cpp=C:\Users\Lilian POIGNANT\Documents\TP SYSTEME SN2\TpDMX\Unit1.cpp</Transaction>
+    <Transaction>2019/11/26 17:27:42.000.007,C:\Users\Lilian POIGNANT\Documents\Embarcadero\Studio\Projets\Unit1.h=C:\Users\Lilian POIGNANT\Documents\TP SYSTEME SN2\TpDMX\Unit1.h</Transaction>
+    <Transaction>2019/11/26 17:27:42.000.007,C:\Users\Lilian POIGNANT\Documents\Embarcadero\Studio\Projets\Unit1.dfm=C:\Users\Lilian POIGNANT\Documents\TP SYSTEME SN2\TpDMX\Unit1.dfm</Transaction>
+    <Transaction>2019/11/26 17:27:43.000.492,C:\Users\Lilian POIGNANT\Documents\Embarcadero\Studio\Projets\Project1PCH1.h=C:\Users\Lilian POIGNANT\Documents\TP SYSTEME SN2\TpDMX\Project1PCH1.h</Transaction>
+    <Transaction>2019/11/26 17:27:44.000.351,C:\Users\Lilian POIGNANT\Documents\Embarcadero\Studio\Projets\Project1.cbproj=C:\Users\Lilian POIGNANT\Documents\TP SYSTEME SN2\TpDMX\Project1.cbproj</Transaction>
+    <Transaction>2019/11/26 17:39:43.000.114,=C:\Users\Lilian POIGNANT\Documents\TP SYSTEME SN2\TpDMX\LIB\DasHard.h.h</Transaction>
+    <Transaction>2019/11/26 17:39:43.000.708,=C:\Users\Lilian POIGNANT\Documents\TP SYSTEME SN2\TpDMX\LIB\DasHard2006.dll</Transaction>
   </Transactions>
 </BorlandProject>

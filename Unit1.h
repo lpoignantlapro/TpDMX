@@ -11,14 +11,22 @@
 class TForm1 : public TForm
 {
 __published:	// Composants gérés par l'EDI
-	TEdit *ROUGE;
-	TEdit *VERT;
-	TEdit *Edit2;
-	TEdit *BLANC;
 	TScrollBar *ScrollBar1;
 	TScrollBar *ScrollBar2;
 	TScrollBar *ScrollBar3;
 	TScrollBar *ScrollBar4;
+	TButton *Button1;
+	TButton *Button2;
+	TButton *Button3;
+	TButton *Button4;
+	TLabel *Label1;
+	TLabel *Label2;
+	TLabel *Label3;
+	TLabel *Label4;
+	void __fastcall Button1Click(TObject *Sender);
+	void __fastcall Button2Click(TObject *Sender);
+	void __fastcall Button3Click(TObject *Sender);
+	void __fastcall Button4Click(TObject *Sender);
 private:	// Déclarations utilisateur
 public:		// Déclarations utilisateur
 	__fastcall TForm1(TComponent* Owner);
